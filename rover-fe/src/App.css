@@ -1,0 +1,16 @@
+.App {
+	max-width: 80%;
+  margin: auto;
+  text-align: center;
+  
+}
+
+.RoverDiv {
+  padding: 5px;
+  border-top: 2px solid grey;
+  margin-top: 15px;
+}
+
+body{
+  background-color: #FAF9F6;
+}
